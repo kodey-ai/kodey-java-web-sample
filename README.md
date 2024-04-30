@@ -4,7 +4,7 @@ This repository is an example Kodey.ai Coding Agent Workflow
 
 ## Objectives
 
-In this sample, we will explore how Kodey.ai can create projects and integrate serverless code and automate it.
+In this sample, we will explore how Kodey.ai can create projects and integrate java servlet code and automate it.
 
 ## Project Setup & Steps 
 
